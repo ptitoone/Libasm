@@ -4,10 +4,10 @@
 </p>
 
 ### Assembly language
-This project aims to get basinc understanding of assembly language in Intel syntax. A few functions had to be written and archived in a library format. Then a testing program had to be written in C and compiled with the library. 
+This project aims to get a basic understanding of the assembly language in Intel syntax. A few functions had to be written and archived in a library format. Then a testing program had to be written in C and compiled with the library.
 
 ## Usage
-**Note:** This project runs on linux.
+**Note:** This project runs on Linux.
 
 Build the program using `make all`. To include the bonus functions, use `make bonus`. Run the `libsam.out` or `libasm_bonus.out` to execute the tester compiled with the assembly library.
 
